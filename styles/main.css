@@ -1,0 +1,13 @@
+h1 {
+   font-weight: bold;
+   text-align: center;
+ }
+body {
+  text-align: center;
+}
+form {
+  padding: 50px;
+}
+button {
+  color: pink;
+}
